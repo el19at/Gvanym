@@ -15,3 +15,11 @@
 * [ ] Ask them if we can meet them at their office in Sderot
 * [ ] What exactly do you want? an extention to the website and a system for you to control it? Can you define more clearly the systems you want to create?
 * [ ] Share a job post with a pre-built format in social apps like facebook, twitter etc...
+* [ ] Will the candidate have access to their history, and if so, will be be done through the website?
+
+## Extend / Include
+* [ ] View Candidate History
+* [ ] View Candidate Details
+* [ ] View Candidate's Job Request History
+* [ ] filtering/sorting search results
+* [ ] Update Status
