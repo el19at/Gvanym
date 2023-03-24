@@ -10,6 +10,8 @@
 * [x] Job search integration for candidates in the website? 
 <br /><span style="color:green;">**Answer**:</span> yes
 
+* [ ] Should the system for both the candidates and admins/managers all be in the website?
+
 ## Main system related questions
 
 * [ ] What sort of information is important to you about the candidates?
