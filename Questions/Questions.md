@@ -2,7 +2,7 @@
 
 * [ ] How should a candidate login be? SMS or username and password?
 
-* [ ] There is already a website manage job seeker's resume: https://jobs.intel.com/en/search-jobs look at it for inspiration
+* [ ] There is already a website manage job seeker's resume: https://jobs.intel.com/en/search-jobs look at it for inspiration.
 
 * [x] In linkedin, you need to login to the website in order to become a candidate, do you want a system where the candidates need to login?
 <br /><span style="color:green;">**Answer**:</span> A candidate should not login to the website to apply to a job, but should login to see their status.
