@@ -1,0 +1,4 @@
+# starUML remove watermark folder
+staruml-watermark/
+# remove starUML watermark
+removeWatermark.bat
